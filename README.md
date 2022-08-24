@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @aysnigdha
 - 👀 I’m interested in Software testing
 - 🌱 I’m currently learning Python
-- 💞️ I’m looking to collaborate on launch my career
+- 💞️ I’m working on meldCX as a software QA test Engineer
 - 📫 How to reach me 01721504079
 
 <!---
