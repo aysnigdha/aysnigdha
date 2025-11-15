@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @aysnigdha
 - 👀 Passionate about Software Testing — both Manual & Automation
-- 💻 Experienced in JavaScript automation using Appium & Cypress on EB7 devices
+- 💻 Experienced in JavaScript automation using Appium & Cypress on web testing and EB7 devices
 - 🔍 Skilled in API testing with Postman
 - 🐍 Currently learning Python
 - 💼 Working as a Freelance QA Test Engineer (previously at meldCX)
