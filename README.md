@@ -3,7 +3,7 @@
 - 💻 Experienced in JavaScript automation using Appium & Cypress on web testing and EB7 devices
 - 🔍 Skilled in API testing with Postman
 - 🐍 Currently learning Python
-- 💼 Working as a Freelance QA Test Engineer (previously at meldCX)
+- 💼 Working as a Freelance QA Test Engineer(Upwork and UTest), previously onsite job (3.5 years at meldCX)
 - 📫 Reach me at 📞 01721504079 or 📧 anzuman.yasmin@gmail.com 
 
 <!---
